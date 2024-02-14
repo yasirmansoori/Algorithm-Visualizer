@@ -13,6 +13,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=0081CB)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)
 <br/>
 
 ## 📦 Getting Started
